@@ -1,0 +1,30 @@
+2024-08-13 09:33:57 INFO  DriverManager:28 - Launching Chrome Browser
+2024-08-13 09:34:00 INFO  LoginPage:24 - Enter email locked_out_user to email field [[ChromeDriver: chrome on mac (c24078e73977d57248de4d573c551d9c)] -> xpath: //input[@id='user-name']]
+2024-08-13 09:34:00 INFO  LoginPage:28 - Enter password secret_sauce to password field [[ChromeDriver: chrome on mac (c24078e73977d57248de4d573c551d9c)] -> xpath: //input[@id='password']]
+2024-08-13 09:34:00 INFO  LoginPage:32 - Click on login button [[ChromeDriver: chrome on mac (c24078e73977d57248de4d573c551d9c)] -> xpath: //input[@id ='login-button']]
+2024-08-13 09:34:20 INFO  LoginPage:29 - Get page heading Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='title']'
+2024-08-13 09:34:40 INFO  DriverManager:43 - Closing Browser
+2024-08-13 09:34:57 INFO  DriverManager:28 - Launching Chrome Browser
+2024-08-13 09:34:59 INFO  LoginPage:24 - Enter email standard_user to email field [[ChromeDriver: chrome on mac (4c78e694950b2c2c1aa8a88cbadcdec9)] -> xpath: //input[@id='user-name']]
+2024-08-13 09:34:59 INFO  LoginPage:28 - Enter password secret_sauce to password field [[ChromeDriver: chrome on mac (4c78e694950b2c2c1aa8a88cbadcdec9)] -> xpath: //input[@id='password']]
+2024-08-13 09:34:59 INFO  LoginPage:32 - Click on login button [[ChromeDriver: chrome on mac (4c78e694950b2c2c1aa8a88cbadcdec9)] -> xpath: //input[@id ='login-button']]
+2024-08-13 09:34:59 INFO  LoginPage:29 - Get page heading [[ChromeDriver: chrome on mac (4c78e694950b2c2c1aa8a88cbadcdec9)] -> xpath: //span[@class='title']]
+2024-08-13 09:34:59 INFO  DriverManager:43 - Closing Browser
+2024-08-13 09:34:59 INFO  DriverManager:28 - Launching Chrome Browser
+2024-08-13 09:35:01 INFO  LoginPage:24 - Enter email locked_out_user to email field [[ChromeDriver: chrome on mac (df2591b2b2f15d27ca8061e6b468e9be)] -> xpath: //input[@id='user-name']]
+2024-08-13 09:35:01 INFO  LoginPage:28 - Enter password secret_sauce to password field [[ChromeDriver: chrome on mac (df2591b2b2f15d27ca8061e6b468e9be)] -> xpath: //input[@id='password']]
+2024-08-13 09:35:01 INFO  LoginPage:32 - Click on login button [[ChromeDriver: chrome on mac (df2591b2b2f15d27ca8061e6b468e9be)] -> xpath: //input[@id ='login-button']]
+2024-08-13 09:35:21 INFO  LoginPage:29 - Get page heading Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='title']'
+2024-08-13 09:35:41 INFO  DriverManager:43 - Closing Browser
+2024-08-13 09:42:21 INFO  DriverManager:28 - Launching Chrome Browser
+2024-08-13 09:42:23 INFO  LoginPage:24 - Enter email standard_user to email field [[ChromeDriver: chrome on mac (42355ef6eccb2f8e85b67b6acdfcbe6b)] -> xpath: //input[@id='user-name']]
+2024-08-13 09:42:23 INFO  LoginPage:28 - Enter password secret_sauce to password field [[ChromeDriver: chrome on mac (42355ef6eccb2f8e85b67b6acdfcbe6b)] -> xpath: //input[@id='password']]
+2024-08-13 09:42:23 INFO  LoginPage:32 - Click on login button [[ChromeDriver: chrome on mac (42355ef6eccb2f8e85b67b6acdfcbe6b)] -> xpath: //input[@id ='login-button']]
+2024-08-13 09:42:23 INFO  LoginPage:29 - Get page heading [[ChromeDriver: chrome on mac (42355ef6eccb2f8e85b67b6acdfcbe6b)] -> xpath: //span[@class='title']]
+2024-08-13 09:42:23 INFO  DriverManager:43 - Closing Browser
+2024-08-13 09:42:23 INFO  DriverManager:28 - Launching Chrome Browser
+2024-08-13 09:42:24 INFO  LoginPage:24 - Enter email locked_out_user to email field [[ChromeDriver: chrome on mac (8110c7de5bfe8b2f84f51cad933a911a)] -> xpath: //input[@id='user-name']]
+2024-08-13 09:42:25 INFO  LoginPage:28 - Enter password secret_sauce to password field [[ChromeDriver: chrome on mac (8110c7de5bfe8b2f84f51cad933a911a)] -> xpath: //input[@id='password']]
+2024-08-13 09:42:25 INFO  LoginPage:32 - Click on login button [[ChromeDriver: chrome on mac (8110c7de5bfe8b2f84f51cad933a911a)] -> xpath: //input[@id ='login-button']]
+2024-08-13 09:42:45 INFO  LoginPage:29 - Get page heading Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='title']'
+2024-08-13 09:43:05 INFO  DriverManager:43 - Closing Browser
